@@ -10,6 +10,6 @@ describe('Game', () => {
   });
 
   it('should keep track of the current round', () => {
-    expect(game.currentRound).to.be.a('number');
+    expect(game.currentRound).to.be.a('object');
   });
 });

@@ -28,9 +28,9 @@ class Round {
   }
 
   endRound() {
-    console.log(
-      `**Round over!** You answered ${this.calculatePercentCorrect()}% of the questions correctly!`
-    );
+    let result = `**Round over!** You answered ${this.calculatePercentCorrect()}% of the questions correctly!`;
+    console.log(result);
+    return result;
   }
 }
 
