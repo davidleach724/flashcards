@@ -4,7 +4,7 @@
 This project iterates through a data set and compiles different flashcards. The user is able to test their knowledge of a subject all in their terminal.
 
 ### Check it out in action..
-![dleach_tictactoe](![Leach_flashcards](https://user-images.githubusercontent.com/81774070/124996663-92aa6c00-e006-11eb-8f91-51dd7a40fe6c.gif)
+![Leach_flashcards](https://user-images.githubusercontent.com/81774070/124996663-92aa6c00-e006-11eb-8f91-51dd7a40fe6c.gif)
 
 ### Technologies Used
 - Javascript
