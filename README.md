@@ -1,7 +1,7 @@
 # FLASHCARDS - TEST YOUR BRAIN GRAPES
 
 
-This project iterates through a data set and compiles different flashcards. The user is able to test their knowledge of a subject all in their terminal.
+This project iterates through a data set and compiles different flashcards. The user is able to test their knowledge, get feedback if the answer is correct/incorrect, and view their final score - all in their terminal!
 
 ### Check it out in action..
 ![Leach_flashcards](https://user-images.githubusercontent.com/81774070/124996663-92aa6c00-e006-11eb-8f91-51dd7a40fe6c.gif)
